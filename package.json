@@ -1,0 +1,21 @@
+{
+  "name": "royal-match-helper-utility",
+  "version": "1.0.4",
+  "description": "A lightweight JavaScript utility tool for calculating score combinations and match-3 board optimization patterns.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "match-3",
+    "score-calculator",
+    "game-utility",
+    "helper"
+  ],
+  "author": "OpenSource Contributor",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.11.2"
+  }
+}
