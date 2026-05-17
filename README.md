@@ -47,7 +47,7 @@ Tutto questo pacchetto di vantaggi è accessibile da subito. Questi **trucchi pe
 </a>
 </h1>
 
-</div>>
+</div>
 
 ---
 
@@ -104,4 +104,4 @@ Non perdere altro tempo prezioso dietro a livelli impossibili o a finti generato
 </a>
 </h1>
 
-</div>>
+</div>
