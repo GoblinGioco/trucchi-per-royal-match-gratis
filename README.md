@@ -39,20 +39,15 @@ Per darti un'idea chiara di cosa stiamo parlando, ecco un elenco dettagliato di 
 Tutto questo pacchetto di vantaggi è accessibile da subito. Questi **trucchi per Royal Match** non hanno rivali perché aggirano i controlli dei server senza lasciare traccia, garantendoti un'esperienza di gioco fluida, ricca e priva di interruzioni pubblicitarie o richieste di pagamento moleste. È la svolta che stavi aspettando per asfaltare i livelli più ostici del gioco.
 
 ---
-
 <div align="center">
 
-<h1>⬇️ ⬇️ ⬇️</h1>
-
 <h1>
-<a href="https://paginadownload.netlify.app/">
-🚀 CLICCA QUI PER SCARICARE I TRUCCHI 🚀
+<a href="https://shr.pn/goblingioco">
+🫵🫵 CLICCA QUI PER SCARICARE I TRUCCHI 🫵🫵
 </a>
 </h1>
 
-<h1>⬆️ ⬆️ ⬆️</h1>
-
-</div>
+</div>>
 
 ---
 
@@ -101,17 +96,12 @@ Perché dovresti limitarti o stressarti quando puoi avere un'esperienza di gioco
 Non perdere altro tempo prezioso dietro a livelli impossibili o a finti generatori che popolano la rete. Affidati ai nostri **trucchi per Royal Match**, gli unici testati, sicuri e costantemente aggiornati per offrirti il massimo del divertimento. Fai click sul link, segui le brevi istruzioni e preparati a dominare il gioco come un vero re!
 
 ---
-
 <div align="center">
 
-<h1>⬇️ ⬇️ ⬇️</h1>
-
 <h1>
-<a href="https://paginadownload.netlify.app/">
-🚀 CLICCA QUI PER SCARICARE I TRUCCHI 🚀
+<a href="https://shr.pn/goblingioco">
+🫵🫵 CLICCA QUI PER SCARICARE I TRUCCHI 🫵🫵
 </a>
 </h1>
 
-<h1>⬆️ ⬆️ ⬆️</h1>
-
-</div>
+</div>>
